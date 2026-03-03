@@ -102,6 +102,7 @@ body * {
     cursor: pointer;
 }
 
+
 /* Tablet */
 @media (max-width: 950px){
     .left-login,
